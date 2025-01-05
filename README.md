@@ -1,3 +1,3 @@
 # To-Do-List
-!(To-Do-list/to-do-list/src/assets/Screenshot from 2025-01-06 04-21-11.png)
+![to-do-list/src/assets/Screenshot from 2025-01-06 04-21-11.png]
 
