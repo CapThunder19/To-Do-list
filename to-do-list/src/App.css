@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.maindiv{
+  display: flex;
+  
+  align-items: center;
+  height: 100vh;
+  ;
+  flex-direction: column;
+
+}
+
+.searchdiv{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  
+  margin-bottom: 15px;
+  
+  
+}
+
+body{
+  background-color: #753434;
+}
+
+.listdiv{
+  height: 500px;
+  width: 350px;
+  
+   
+  
+}
+.donediv{
+  height: 500px;
+  width: 350px;
+}
